@@ -126,3 +126,11 @@ div.desc {
   padding: 15px;
   text-align: center;
 }
+
+.hero-container{
+  background-color: white;
+  width: 660px;
+  border: 5px solid black;
+  padding: 30px;
+  margin: 20px;
+}
